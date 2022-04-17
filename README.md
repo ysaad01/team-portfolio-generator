@@ -27,13 +27,15 @@
   
   User will open the terminal and type "node index" to start application. When completed, new index.html file will generate in the dist folder.
   
-  
+  [Click Here to Watch a Walk Through of the Generator](https://drive.google.com/file/d/11zLfgDvFsygxic5UHAgdFUqYCC4lv2tJ/view)
   
   
   
   ## [Test](#table-of-contents)
 
   npm run test
+
+  [Click Here to Watch a Walk Through of npm run test](https://drive.google.com/file/d/1TliWNA2RLqxY6WH3CnKpMMFNHAg0L4Mp/view)
   
   ## [Questions](#table-of-contents)
   
