@@ -1,0 +1,23 @@
+{
+  "name": "team-portfolio-generator",
+  "version": "1.0.0",
+  "description": "Week 10 challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysaad01/team-portfolio-generator.git"
+  },
+  "author": "Yasmine Saad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysaad01/team-portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/ysaad01/team-portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "jest": "^27.5.1"
+  }
+}
